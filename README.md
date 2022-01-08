@@ -1,3 +1,6 @@
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Azri AlAEDDINE</h1>
+
+
 
 ##  👨🏻‍💻 About Me:
 ##  I'm a Engineer, Developer, and a Gamer !!
