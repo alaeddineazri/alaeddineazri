@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned 
 
 - ⚡ Fun fact: I love traveling and camping 
 
