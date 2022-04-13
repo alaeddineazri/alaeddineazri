@@ -61,4 +61,5 @@
 <p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alaeddineazri&theme=dark" alt="alaeddineazri" /></p>
 
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alaeddineazri.visitor-badge)
 
