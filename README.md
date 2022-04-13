@@ -61,5 +61,5 @@
 <p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alaeddineazri&theme=dark" alt="alaeddineazri" /></p>
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alaeddineazri.visitor-badge)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=alaeddineazri&label=Profile%20views&color=0e75b6&style=flat" alt="alaeddineazri" /> </p>
 
