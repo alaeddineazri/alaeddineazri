@@ -9,7 +9,7 @@
 ##  I'm an Engineer, Developer, and a Gamer !!
 <img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://alaeddine-azri.netlify.app)**
+- 🙋‍♂️ All about me is at **[My Portfoilio](https://alaeddine-azri.netlify.app)**
 
 - 📫 How to reach me **alaeddinazri@gmail.com**
 
@@ -54,9 +54,9 @@
 
 
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineazri&theme=dark&show_icons=true&locale=en&layout=compact" alt="alaeddineazri" /></p>
+<!-- <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaeddineazri&theme=dark&show_icons=true&locale=en&layout=compact" alt="alaeddineazri" /></p>
 
-<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=alaeddineazri&theme=dark&show_icons=true&locale=en" alt="alaeddineazri" /></p>
+<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=alaeddineazri&theme=dark&show_icons=true&locale=en" alt="alaeddineazri" /></p> -->
 
 <p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alaeddineazri&theme=dark" alt="alaeddineazri" /></p>
 
