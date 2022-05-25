@@ -7,7 +7,8 @@
 
 ##  👨🏻‍💻 About Me:
 ##  I'm an Engineer, Developer, and a Gamer !!
-<img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" height="290px" align="right" />
+
+<img align="right" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" height="290px"  />
 
 - 🙋‍♂️ All about me is at **[My Portfoilio](https://alaeddine-azri.netlify.app)**
 
