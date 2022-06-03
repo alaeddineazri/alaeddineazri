@@ -1,6 +1,9 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm AZRI AlAEDDINE</h1>
 
 
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px"> I'm AZRI AlAEDDINE</h1>
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=alaeddineazri&label=Profile%20views&color=0e75b6&style=flat" alt="alaeddineazri" /> </p>
 
 
 
@@ -8,7 +11,7 @@
 ##  👨🏻‍💻 About Me:
 ##  I'm an Engineer, Developer, and a Gamer !!
 
-<img align="right" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" height="5px"  />
+<img align="right" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" height="350px"  />
 
 - 🙋‍♂️ All about me is at **[My Portfoilio](https://alaeddine-azri.netlify.app)**
 
@@ -62,5 +65,4 @@
 <p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=alaeddineazri&theme=dark" alt="alaeddineazri" /></p>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=alaeddineazri&label=Profile%20views&color=0e75b6&style=flat" alt="alaeddineazri" /> </p>
 
