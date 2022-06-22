@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px"> I'm AZRI AlAEDDINE</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px"> I'm AZRI AlA EDDINE</h1>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=alaeddineazri&label=Profile%20views&color=0e75b6&style=flat" alt="alaeddineazri" /> </p>
