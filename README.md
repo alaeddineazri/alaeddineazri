@@ -9,7 +9,6 @@
 
 
 ##  👨🏻‍💻 About Me:
-##  I'm an Engineer, Developer, and a Gamer !!
 
 <img align="right" src="https://stormotion.io/blog/content/images/2018/12/developer.gif" height="350px"  />
 
